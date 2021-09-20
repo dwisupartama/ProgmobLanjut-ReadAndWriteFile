@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Latihan Read and Write</string>
+    <string name="file_new">File Baru</string>
+    <string name="file_open">Buka File</string>
+    <string name="file_save">Simpan File</string>
+    <string name="title">Text</string>
+</resources>
